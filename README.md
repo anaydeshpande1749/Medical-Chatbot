@@ -36,11 +36,7 @@ Instead of relying only on a general LLM response, the system first retrieves re
 
 # 🎥 Demo Video
 
-<p align="center">
-  <video src="assets/medical-chatbot-demo.mp4" controls width="900"></video>
-</p>
-
-
+https://github.com/user-attachments/assets/3279b712-2069-4780-aaeb-16d0f40908b5
 
 ---
 
